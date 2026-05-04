@@ -1,0 +1,5 @@
+{
+  "name": "PDF 4-Up Splitter",
+  "description": "A browser-based utility to split PDFs into sections based on 'Q.1' markers and arrange pages in a 4-up grid layout.",
+  "requestFramePermissions": []
+}
